@@ -1,0 +1,6 @@
+Pillow==10.0.1
+rembg==2.0.30
+tqdm==4.66.1
+logging==0.5.1.2
+argparse==1.4.0
+shutil==1.0.0
